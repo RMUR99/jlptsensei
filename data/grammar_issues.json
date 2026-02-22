@@ -1,0 +1,12 @@
+{
+  "issues": {
+    "て-form": 1,
+    "Past tense": 1,
+    "「はしゃぐものがあります」should be corrected to「はしゃぐものはありません」for negative sentences.": 1,
+    "Verb '食べる' (to eat) is in past tense '食べました'.": 1,
+    "〜は〜です": 1,
+    "〜が": 1,
+    "〜たい": 1,
+    "食べます (tabemasu) is the present tense form. You used '食べました' which is past tense.": 1
+  }
+}

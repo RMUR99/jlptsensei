@@ -1,0 +1,179 @@
+{
+  "words": [
+    {
+      "word": "寒い",
+      "reading": "さむい",
+      "meaning": "cold",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "雪",
+      "reading": "ゆき",
+      "meaning": "snow",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "きれい",
+      "reading": "きれい",
+      "meaning": "beautiful",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "楽しむ",
+      "reading": "たのしむ",
+      "meaning": "to enjoy",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "パスタ",
+      "reading": "ぱすた",
+      "meaning": "pasta",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "tomorrow",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "タコ",
+      "reading": "たこ",
+      "meaning": "octopus",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "食べます",
+      "reading": "たべます",
+      "meaning": "to eat",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "yesterday",
+      "times_seen": 2,
+      "times_predicted": 0
+    },
+    {
+      "word": "朝ご飯",
+      "reading": "あさごはん",
+      "meaning": "breakfast",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "晩ご飯",
+      "reading": "ばんごはん",
+      "meaning": "dinner",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "朝ごはん",
+      "reading": "あさごはん",
+      "meaning": "breakfast",
+      "times_seen": 2,
+      "times_predicted": 0
+    },
+    {
+      "word": "手",
+      "reading": "て",
+      "meaning": "hand",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "はしゃぐ",
+      "reading": "はしゃぐ",
+      "meaning": "to be excited",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "もの",
+      "reading": "もの",
+      "meaning": "thing",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "食べました",
+      "reading": "たべました",
+      "meaning": "ate",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "元気",
+      "reading": "げんき",
+      "meaning": "healthy; energetic",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "天気",
+      "reading": "てんき",
+      "meaning": "weather",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "hobby",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "reading books",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "おにぎり",
+      "reading": "おにぎり",
+      "meaning": "rice ball",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "easy",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "米",
+      "reading": "こめ",
+      "meaning": "rice",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "塩",
+      "reading": "しお",
+      "meaning": "salt",
+      "times_seen": 1,
+      "times_predicted": 0
+    },
+    {
+      "word": "ラーメン",
+      "reading": "ラーメン",
+      "meaning": "ramen (Japanese noodle soup)",
+      "times_seen": 1,
+      "times_predicted": 0
+    }
+  ]
+}
