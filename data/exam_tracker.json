@@ -1,0 +1,548 @@
+{
+  "summary": {
+    "total": 42,
+    "correct": 36
+  },
+  "by_section": {
+    "grammar": {
+      "total": 35,
+      "correct": 31
+    },
+    "listening": {
+      "total": 2,
+      "correct": 1
+    },
+    "reading": {
+      "total": 1,
+      "correct": 0
+    },
+    "vocabulary": {
+      "total": 4,
+      "correct": 4
+    }
+  },
+  "by_level": {
+    "N5": {
+      "total": 36,
+      "correct": 31
+    },
+    "N4": {
+      "total": 6,
+      "correct": 5
+    }
+  },
+  "weak_grammar": {
+    "Verb conjugation": {
+      "total": 3,
+      "wrong": 1
+    },
+    "Verb conjugation (present tense)": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Particles": {
+      "total": 2,
+      "wrong": 0
+    },
+    "Present tense verb conjugation": {
+      "total": 1,
+      "wrong": 1
+    },
+    "Noun + を + verb": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Polite present tense": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Verb conjugation in polite form": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Existence of living things (いる/います)": {
+      "total": 1,
+      "wrong": 0
+    },
+    "ます form": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Use of です": {
+      "total": 1,
+      "wrong": 0
+    },
+    "verb conjugation for polite present tense": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Present tense polite form": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Verb conjugation (ます form)": {
+      "total": 2,
+      "wrong": 0
+    },
+    "Noun usage": {
+      "total": 1,
+      "wrong": 0
+    },
+    "verb conjugation (polite form)": {
+      "total": 1,
+      "wrong": 1
+    },
+    "polite form of verbs": {
+      "total": 1,
+      "wrong": 0
+    },
+    "The polite present form of verbs": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Polite form of verb": {
+      "total": 2,
+      "wrong": 0
+    },
+    "Present tense affirmative form": {
+      "total": 2,
+      "wrong": 0
+    },
+    "Sentence structure": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Verb conjugation (masu-form)": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Polite form of verbs": {
+      "total": 1,
+      "wrong": 0
+    },
+    "ます-form": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Particle usage": {
+      "total": 1,
+      "wrong": 1
+    },
+    "Verb conjugation for routine actions": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Basic adjective usage": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Present tense verb form": {
+      "total": 1,
+      "wrong": 0
+    },
+    "Verb conjugation for future actions": {
+      "total": 1,
+      "wrong": 0
+    },
+    "~つもりです": {
+      "total": 1,
+      "wrong": 1
+    },
+    "Masu-form of verbs": {
+      "total": 2,
+      "wrong": 0
+    }
+  },
+  "weak_vocabulary": {
+    "あそぶ": {
+      "total": 1,
+      "wrong": 1
+    },
+    "水": {
+      "total": 5,
+      "wrong": 0
+    },
+    "コーヒー": {
+      "total": 5,
+      "wrong": 1
+    },
+    "勉強": {
+      "total": 1,
+      "wrong": 0
+    },
+    "朝ごはん": {
+      "total": 1,
+      "wrong": 0
+    },
+    "学校": {
+      "total": 3,
+      "wrong": 0
+    },
+    "サンドイッチ": {
+      "total": 1,
+      "wrong": 0
+    },
+    "魚": {
+      "total": 1,
+      "wrong": 0
+    },
+    "いきます": {
+      "total": 1,
+      "wrong": 0
+    },
+    "ねこ": {
+      "total": 1,
+      "wrong": 0
+    },
+    "小さい": {
+      "total": 1,
+      "wrong": 0
+    },
+    "りんご": {
+      "total": 1,
+      "wrong": 1
+    },
+    "犬": {
+      "total": 1,
+      "wrong": 0
+    }
+  },
+  "history": [
+    {
+      "timestamp": "2026-02-25T00:29:02.880049",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Verb conjugation",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T00:30:10.485546",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Verb conjugation (present tense)",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T00:31:45.708122",
+      "level": "N5",
+      "section": "listening",
+      "correct": false,
+      "grammar_point": "Verb conjugation",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T00:31:48.366797",
+      "level": "N5",
+      "section": "listening",
+      "correct": true,
+      "grammar_point": "Verb conjugation",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T00:41:36.322596",
+      "level": "N5",
+      "section": "reading",
+      "correct": false,
+      "grammar_point": null,
+      "vocabulary_focus": "あそぶ"
+    },
+    {
+      "timestamp": "2026-02-25T00:48:37.933652",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Particles",
+      "vocabulary_focus": "水"
+    },
+    {
+      "timestamp": "2026-02-25T00:54:26.739801",
+      "level": "N5",
+      "section": "grammar",
+      "correct": false,
+      "grammar_point": "Present tense verb conjugation",
+      "vocabulary_focus": "コーヒー"
+    },
+    {
+      "timestamp": "2026-02-25T00:57:02.335268",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Noun + を + verb",
+      "vocabulary_focus": "水"
+    },
+    {
+      "timestamp": "2026-02-25T01:00:04.904182",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Polite present tense",
+      "vocabulary_focus": "勉強"
+    },
+    {
+      "timestamp": "2026-02-25T01:02:32.889622",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Verb conjugation in polite form",
+      "vocabulary_focus": "朝ごはん"
+    },
+    {
+      "timestamp": "2026-02-25T01:02:52.778052",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Existence of living things (いる/います)",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:03:13.888872",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "ます form",
+      "vocabulary_focus": "学校"
+    },
+    {
+      "timestamp": "2026-02-25T01:03:24.535730",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Use of です",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:03:37.628571",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "verb conjugation for polite present tense",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:03:54.823948",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Present tense polite form",
+      "vocabulary_focus": "サンドイッチ"
+    },
+    {
+      "timestamp": "2026-02-25T01:07:19.939868",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Verb conjugation (ます form)",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:07:32.790367",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Noun usage",
+      "vocabulary_focus": "水"
+    },
+    {
+      "timestamp": "2026-02-25T01:07:48.779429",
+      "level": "N5",
+      "section": "grammar",
+      "correct": false,
+      "grammar_point": "verb conjugation (polite form)",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:08:07.821453",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "polite form of verbs",
+      "vocabulary_focus": "学校"
+    },
+    {
+      "timestamp": "2026-02-25T01:08:30.186727",
+      "level": "N5",
+      "section": "vocabulary",
+      "correct": true,
+      "grammar_point": null,
+      "vocabulary_focus": "魚"
+    },
+    {
+      "timestamp": "2026-02-25T01:09:27.305583",
+      "level": "N5",
+      "section": "vocabulary",
+      "correct": true,
+      "grammar_point": null,
+      "vocabulary_focus": "いきます"
+    },
+    {
+      "timestamp": "2026-02-25T01:09:47.011339",
+      "level": "N5",
+      "section": "vocabulary",
+      "correct": true,
+      "grammar_point": null,
+      "vocabulary_focus": "ねこ"
+    },
+    {
+      "timestamp": "2026-02-25T01:10:19.333214",
+      "level": "N5",
+      "section": "vocabulary",
+      "correct": true,
+      "grammar_point": null,
+      "vocabulary_focus": "小さい"
+    },
+    {
+      "timestamp": "2026-02-25T01:19:17.215932",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "The polite present form of verbs",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:19:45.296626",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Polite form of verb",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:19:57.662714",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Polite form of verb",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:20:22.798050",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Present tense affirmative form",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:22:36.654344",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Sentence structure",
+      "vocabulary_focus": "学校"
+    },
+    {
+      "timestamp": "2026-02-25T01:22:52.795867",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Verb conjugation (masu-form)",
+      "vocabulary_focus": "コーヒー"
+    },
+    {
+      "timestamp": "2026-02-25T01:23:02.639314",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Verb conjugation (ます form)",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:23:10.549630",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Polite form of verbs",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:23:19.321423",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "ます-form",
+      "vocabulary_focus": "コーヒー"
+    },
+    {
+      "timestamp": "2026-02-25T01:28:53.758627",
+      "level": "N5",
+      "section": "grammar",
+      "correct": false,
+      "grammar_point": "Particle usage",
+      "vocabulary_focus": "りんご"
+    },
+    {
+      "timestamp": "2026-02-25T01:29:55.390266",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Verb conjugation for routine actions",
+      "vocabulary_focus": "コーヒー"
+    },
+    {
+      "timestamp": "2026-02-25T01:30:12.287728",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Basic adjective usage",
+      "vocabulary_focus": "犬"
+    },
+    {
+      "timestamp": "2026-02-25T01:30:23.336151",
+      "level": "N5",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Particles",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:44:31.524081",
+      "level": "N4",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Present tense verb form",
+      "vocabulary_focus": "コーヒー"
+    },
+    {
+      "timestamp": "2026-02-25T01:48:08.859992",
+      "level": "N4",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Verb conjugation for future actions",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:48:30.461492",
+      "level": "N4",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Present tense affirmative form",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:48:53.058803",
+      "level": "N4",
+      "section": "grammar",
+      "correct": false,
+      "grammar_point": "~つもりです",
+      "vocabulary_focus": null
+    },
+    {
+      "timestamp": "2026-02-25T01:49:07.640312",
+      "level": "N4",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Masu-form of verbs",
+      "vocabulary_focus": "水"
+    },
+    {
+      "timestamp": "2026-02-25T01:49:19.378090",
+      "level": "N4",
+      "section": "grammar",
+      "correct": true,
+      "grammar_point": "Masu-form of verbs",
+      "vocabulary_focus": "水"
+    }
+  ]
+}
