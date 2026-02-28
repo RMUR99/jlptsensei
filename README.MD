@@ -34,6 +34,10 @@ Users can chat in Japanese, practice JLPT-level sentences, and get instant feedb
 │ ├─ chat_ui.py # Chat + shadowing UI
 │ └─ dashboard.py # Learning stats dashboard
   └─  exam_ui.py # Exam UI
+├─ ffmpeg/
+│ ├─ ffmpeg.exe # audio handling
+│ ├─ ffmprobe.exe
+│ 
 ├─ voice/
 │ ├─ speech_to_text.py # Convert mic audio → text (Whisper)
 │ └─ text_to_speech.py # Convert text → speech (GPT TTS)
@@ -46,6 +50,8 @@ Users can chat in Japanese, practice JLPT-level sentences, and get instant feedb
 ```
 
 ## Installation
+Downldling Fmpeg >> bin >> you will find 2 .exe files one for `ffmpeg` and the other for `ffrope` and you can simply copy them to your project 
+download link : https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
 
 1. **Clone the repository**
 ```bash
